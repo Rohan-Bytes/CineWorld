@@ -1,4 +1,4 @@
-# 🎬 Movie App (Django)
+# 🎬 Movie App 
 
 ## 📌 Description
 A Front End-based movie application that displays movie information and allows users to explore movies using a clean UI.
